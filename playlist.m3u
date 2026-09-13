@@ -1,0 +1,255 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/15.png" group-title="CINE", Universal Channel
+http://161.0.157.9/PLTV/88888888/224/3221226828/index.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mb4wQ/6cd02167d4.png" group-title="CINE", Fox Cinema
+http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/fox/fox-movieshd.png" group-title="CINE", Fox Movies
+http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8
+#EXTINF:-1 tvg-logo="http://z.cdn.entutele.com/media/channels/medium/hbo-2.gif" group-title="CINE", HBO 2
+http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w342/searchWAX.jpg" group-title="CINE", FOX ACTION
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=753994&f=.m3u8
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w342/spaceLogo.jpg" group-title="CINE", SPACE
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762211&f=.m3u8
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w342/foxcomedy.jpg" group-title="CINE", FOX COMEDY
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762214&f=.m3u8
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w342/goldenplus.jpg" group-title="CINE", GOLDEN PLUS
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762230&f=.m3u8
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w342/goldenpremier.jpg" group-title="CINE", GOLDEN PREMIER
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762231&f=.m3u8
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w342/foxmovies.jpg" group-title="CINE", FOX MOVIES
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762232&f=.m3u8
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w342/nick.jpg" group-title="CINE", NICK
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762233&f=.m3u8
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w342/clarocinema.jpg" group-title="CINE", CLARO CINEMA
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762234&f=.m3u8
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w342/hbofamily.jpg" group-title="CINE", HBO FAMILY
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762235&f=.m3u8
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w342/fx.jpg" group-title="CINE", FX
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762236&f=.m3u8
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w342/tntseries.jpg" group-title="CINE", TNT SERIES
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762237&f=.m3u8
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w342/cinelatino.jpg" group-title="CINE", CINE LATINO
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762242&f=.m3u8
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w342/foxlife.jpg" group-title="CINE", FOX LIFE
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762243&f=.m3u8
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w342/natgeowild.jpg" group-title="CINE", NAT GEO WILD
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762245&f=.m3u8
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w342/warner.jpg" group-title="CINE", WARNER
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762246&f=.m3u8
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w342/lifetime.jpg" group-title="CINE", LIFE TIME
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762247&f=.m3u8
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w342/foxclassics.jpg" group-title="CINE", FOX CLASSICS
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762248&f=.m3u8
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w342/cinecanal.jpg" group-title="CINE", CINECANAL
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762252&f=.m3u8
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w342/tnt.jpg" group-title="CINE", TNT
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762262&f=.m3u8
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w342/maxup.jpg" group-title="CINE", MAX UP
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762271&f=.m3u8
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w342/hbo2.jpg" group-title="CINE", HBO 2
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762272&f=.m3u8
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w342/axn.jpg" group-title="CINE", AXN
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762275&f=.m3u8
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w342/cinemax.jpg" group-title="CINE", CINEMAX
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762276&f=.m3u8
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w342/universal.jpg" group-title="CINE", UNIVERSAL
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762277&f=.m3u8
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w342/tooncast.jpg" group-title="CINE", TOONCAST
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762278&f=.m3u8
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w342/sony.jpg" group-title="CINE", SONY
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762280&f=.m3u8
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w342/eentertainment.jpg" group-title="CINE", E! ENTERTAINMENT
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762281&f=.m3u8
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w342/azmundo.jpg" group-title="CINE", AZMUNDO
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762282&f=.m3u8
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w342/multipremier.jpg" group-title="CINE", MULTIPREMIER
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762283&f=.m3u8
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w342/pasiones.jpg" group-title="CINE", PASIONES
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762286&f=.m3u8
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w342/lasestrellas.jpg" group-title="CINE", LAS ESTRELLAS
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762288&f=.m3u8
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w342/maxprime.jpg" group-title="CINE", MAX PRIME
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762299&f=.m3u8
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w342/cinemadinamita.jpg" group-title="CINE", CINEMA DINAMITA
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762300&f=.m3u8
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w342/fox.jpg" group-title="CINE", FOX
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762301&f=.m3u8
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w342/hbosignature.jpg" group-title="CINE", HBO SIGNATURE
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762302&f=.m3u8
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w342/paramount.jpg" group-title="CINE", PARAMOUNT
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762305&f=.m3u8
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w342/depelicula.jpg" group-title="CINE", DE PELICULA
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=758453&f=.m3u8
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w342/id.jpg" group-title="CINE", ID
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=758466&f=.m3u8
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w342/entretenimiento.jpg" group-title="ENTRETENIMIENTO", TELEMUNDO INT.
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762212&f=.m3u8
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w342/dhe.jpg" group-title="ENTRETENIMIENTO", DHE
+http://158.69.199.21/claroltv/claro.php?calidad=4&canal=762213&f=.m3u8
+#EXTINF:-1 tvg-logo="https://storage.clubsantos.mx/noticias/b/849.jpg" group-title="DEPORTES", FOX SPORTS 2
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL173/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo="https://storage.clubsantos.mx/noticias/b/849.jpg" group-title="DEPORTES", FOX SPORTS 3
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL178/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo="https://storage.clubsantos.mx/noticias/b/849.jpg" group-title="DEPORTES", FOX SPORTS
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL194/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo="https://storage.clubsantos.mx/noticias/b/849.jpg" group-title="DEPORTES", FOX SPORTS HD
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL194/PROFILE05.m3u8
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w342/espn.jpg" group-title="DEPORTES", ESPN+
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL516/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w342/espn3.jpg" group-title="DEPORTES", ESPN 3
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL520/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w342/espn.jpg" group-title="DEPORTES", ESPN
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL558/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w342/espn2.jpg" group-title="DEPORTES", ESPN 2
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL561/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w342/aymsports.jpg" group-title="DEPORTES", AYM SPORT
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL576/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w342/impactwrestling.jpg" group-title="DEPORTES", IMPACT Wrestling
+http://swf.x10.bz/swe/twich.php?canal=impactwrestling&f=.m3u8
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w342/redbull.jpg" group-title="DEPORTES", RedBull
+http://swf.x10.bz/swe/twich.php?canal=redbull&f=.m3u8
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w342/elevensports.jpg" group-title="DEPORTES", Eleven Sports Next
+http://swf.x10.bz/swe/twich.php?canal=elevensportsnext&f=.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Kkj5IF9.png" group-title="DEPORTES", CDO Premium
+http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.chingonatv.com/wp-content/uploads/2013/11/ESPN.jpg" group-title="DEPORTES", ESPN Argentina
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL558/PROFILE03.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/6FLVrA9.png" group-title="DEPORTES", ESPN 2 Argentina
+http://tv.nousiptv.com:25462/live/Demetrio/Demetrio/3614.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MALrAFv.png" group-title="DEPORTES", ESPN 3 Argentina
+http://tv.nousiptv.com:25462/live/Demetrio/Demetrio/3615.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/tsBxDxY.png" group-title="DEPORTES", Fox Sports 3 Argentina
+http://tv.nousiptv.com:25462/live/Demetrio/Demetrio/2045.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/qXuM4hT.png" group-title="DEPORTES", Fox Sports 2 Argentina
+http://aleman.mine.nu:8000/live/ji63ZDq7IC/bKkMD2tBv6/3272.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/qXuM4hT.png" group-title="DEPORTES", Fox Sports Argentina
+http://aleman.mine.nu:8000/live/ji63ZDq7IC/bKkMD2tBv6/3271.m3u8
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w342/espnplus.jpg" group-title="DEPORTES", ESPN Plus Sur
+http://micine.club:8080/live/Desdetuiphoneapp/buenosdias/%20313.m3u8
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w342/espnplus.jpg" group-title="DEPORTES", ESPN Plus MX
+http://micine.club:8080/live/Desdetuiphoneapp/buenosdias/%20312.m3u8
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w342/espn3.jpg" group-title="DEPORTES", ESPN 3 Sur
+http://micine.club:8080/live/Desdetuiphoneapp/buenosdias/%20311.m3u8
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w342/espn3.jpg" group-title="DEPORTES", ESPN 3 MX
+http://micine.club:8080/live/Desdetuiphoneapp/buenosdias/%20310.m3u8
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w342/espn2.jpg" group-title="DEPORTES", ESPN 2 Sur
+http://micine.club:8080/live/Desdetuiphoneapp/buenosdias/%20309.m3u8
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w342/espn2.jpg" group-title="DEPORTES", ESPN 2 MX
+http://micine.club:8080/live/Desdetuiphoneapp/buenosdias/%20308.m3u8
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w342/espn.jpg" group-title="DEPORTES", ESPN 1 Sur
+http://micine.club:8080/live/Desdetuiphoneapp/buenosdias/%20307.m3u8
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w342/espn.jpg" group-title="DEPORTES", ESPN 1
+http://micine.club:8080/live/Desdetuiphoneapp/buenosdias/%20306.m3u8
+#EXTINF:-1 tvg-logo="https://storage.clubsantos.mx/noticias/b/849.jpg" group-title="DEPORTES", Fox Sports 3 Sur
+http://micine.club:8080/live/Desdetuiphoneapp/buenosdias/%20256.m3u8
+#EXTINF:-1 tvg-logo="https://storage.clubsantos.mx/noticias/b/849.jpg" group-title="DEPORTES", Fox Sports 3 MX
+http://micine.club:8080/live/Desdetuiphoneapp/buenosdias/%20255.m3u8
+#EXTINF:-1 tvg-logo="https://storage.clubsantos.mx/noticias/b/849.jpg" group-title="DEPORTES", Fox Sports 2 Sur
+http://micine.club:8080/live/Desdetuiphoneapp/buenosdias/%20254.m3u8
+#EXTINF:-1 tvg-logo="https://storage.clubsantos.mx/noticias/b/849.jpg" group-title="DEPORTES", Fox Sports 2 MX
+http://micine.club:8080/live/Desdetuiphoneapp/buenosdias/%20253.m3u8
+#EXTINF:-1 tvg-logo="https://storage.clubsantos.mx/noticias/b/849.jpg" group-title="DEPORTES", Fox Sports 1 Sur
+http://micine.club:8080/live/Desdetuiphoneapp/buenosdias/%20252.m3u8
+#EXTINF:-1 tvg-logo="https://storage.clubsantos.mx/noticias/b/849.jpg" group-title="DEPORTES", Fox Sports 1 MX
+http://micine.club:8080/live/Desdetuiphoneapp/buenosdias/%20251.m3u8
+#EXTINF:-1 tvg-logo="https://www.stream2watch.org/images/streams/236/600x400/15045155241416.png" group-title="DEPORTES", TSN1
+http://196.234.81.22:25461/live/12341234/12341234/3684.m3u8
+#EXTINF:-1 tvg-logo="https://soombo.com/assets/images/200_1456428050.png" group-title="DEPORTES", TSN2
+http://196.234.81.22:25461/live/12341234/12341234/3683.m3u8
+#EXTINF:-1 tvg-logo="https://sport-tvguide.live/images/stations/a190.png" group-title="DEPORTES", TSN3
+http://196.234.81.22:25461/live/12341234/12341234/3682.m3u8
+#EXTINF:-1 tvg-logo="http://img1.wikia.nocookie.net/__cb20140901044047/logopedia/images/d/db/TSN4.png" group-title="DEPORTES", TSN4
+http://196.234.81.22:25461/live/12341234/12341234/3681.m3u8
+#EXTINF:-1 tvg-logo="https://cdn1.sportngin.com/attachments/photo/6976/3175/TSN_TM_Logo_Screen_R215.jpg" group-title="DEPORTES", TSN5
+http://196.234.81.22:25461/live/12341234/12341234/3680.m3u8
+#EXTINF:-1 tvg-logo="http://teamnutz.xyz/guide/logos/Sky%20Sports%20News.png" group-title="DEPORTES", SKY SPORTS NEWS
+http://196.234.81.22:25461/live/12341234/12341234/4785.m3u8
+#EXTINF:-1 tvg-logo="http://futbolonline.xyz/images/Sky1.jpg" group-title="DEPORTES", Sky Sports 1
+http://196.234.81.22:25461/live/12341234/12341234/4784.m3u8
+#EXTINF:-1 tvg-logo="http://tvcric.co/wp-content/uploads/2014/05/Sky-Sports-2-logo-Live-Streaming-Watch-Online.jpg" group-title="DEPORTES", Sky Sports 2
+http://196.234.81.22:25461/live/12341234/12341234/4783.m3u8
+#EXTINF:-1 tvg-logo="http://tvcric.co/wp-content/uploads/2014/05/Sky-Sports-3-logo-Live-Streaming-Watch-Online-HD.jpg" group-title="DEPORTES", Sky Sports 3
+http://196.234.81.22:25461/live/12341234/12341234/4778.m3u8
+#EXTINF:-1 tvg-logo="http://tvcric.co/wp-content/uploads/2014/05/Sky-Sports-4-Logo-Live-Streaming-Watch-Online.jpg" group-title="DEPORTES", Sky Sports 4
+http://196.234.81.22:25461/live/12341234/12341234/4782.m3u8
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-sqV0F0ZlyM8/WGt89JISbVI/AAAAAAAAAY8/D0ViDYueuuMdQofTsFRitQB1JpDJuJ_lACLcB/s1600/sky-sports-5.jpg" group-title="DEPORTES", Sky Sports 5
+http://196.234.81.22:25461/live/12341234/12341234/4779.m3u8
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w342/beinsports.jpg" group-title="DEPORTES", BEIN SPORT LA LIGA
+http://tv.iptv5region.com:25461/live/DanielZavala02/U6rED7RTQi/4352.ts
+#EXTINF:-1 tvg-logo="http://alcymedia.com/wp-content/uploads/2017/08/directvsportsplustv.png" group-title="DEPORTES", DIRECT TV
+http://tv.iptv5region.com:25461/live/DanielZavala02/U6rED7RTQi/2262.ts
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w342/movistarfutbol.jpg" group-title="DEPORTES", MOVISTAR FUTBOL
+http://tv.iptv5region.com:25461/live/DanielZavala02/U6rED7RTQi/384.ts
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w342/beinsports.jpg" group-title="DEPORTES", BEIN SPORT LA LIGA
+http://aleman.mine.nu:8000/live/ji63ZDq7IC/bKkMD2tBv6/2036.m3u8
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w342/beinsports.jpg" group-title="DEPORTES", BEIN SPORT USA
+http://aleman.mine.nu:8000/live/ji63ZDq7IC/bKkMD2tBv6/2336.m3u8
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w342/tve.jpg" group-title="DEPORTES", TVE
+http://aleman.mine.nu:8000/live/ji63ZDq7IC/bKkMD2tBv6/2245.m3u8
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w342/cdo.jpg" group-title="DEPORTES", CDO BASICO
+http://aleman.mine.nu:8000/live/ji63ZDq7IC/bKkMD2tBv6/2685.m3u8
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w342/goltv.jpg" group-title="DEPORTES", GOL TV
+http://aleman.mine.nu:8000/live/ji63ZDq7IC/bKkMD2tBv6/1582.m3u8
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w342/directvsports.jpg" group-title="DEPORTES", DIRECTV SPORTS
+http://aleman.mine.nu:8000/live/ji63ZDq7IC/bKkMD2tBv6/3053.m3u8
+#EXTINF:-1 tvg-logo="https://storage.clubsantos.mx/noticias/b/849.jpg" group-title="DEPORTES", FOX SPORTS CHILE
+http://aleman.mine.nu:8000/live/ji63ZDq7IC/bKkMD2tBv6/693.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/qXuM4hT.png" group-title="DEPORTES", FOX SPORT ARG
+http://aleman.mine.nu:8000/live/ji63ZDq7IC/bKkMD2tBv6/2312.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/qXuM4hT.png" group-title="DEPORTES", FOX SPORT VEN
+http://aleman.mine.nu:8000/live/ji63ZDq7IC/bKkMD2tBv6/2313.m3u8
+#EXTINF:-1 tvg-logo="https://storage.clubsantos.mx/noticias/b/849.jpg" group-title="DEPORTES", FOX SPORT 1
+http://aleman.mine.nu:8000/live/ji63ZDq7IC/bKkMD2tBv6/1709.m3u8
+#EXTINF:-1 tvg-logo="https://storage.clubsantos.mx/noticias/b/849.jpg" group-title="DEPORTES", FOX SPORTS 2
+http://aleman.mine.nu:8000/live/ji63ZDq7IC/bKkMD2tBv6/694.m3u8
+#EXTINF:-1 tvg-logo="https://storage.clubsantos.mx/noticias/b/849.jpg" group-title="DEPORTES", FOX SPORTS 3
+http://aleman.mine.nu:8000/live/ji63ZDq7IC/bKkMD2tBv6/1714.m3u8
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w342/tycsports.jpg" group-title="DEPORTES", TYC SPORTS
+http://aleman.mine.nu:8000/live/ji63ZDq7IC/bKkMD2tBv6/1612.m3u8
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w342/supertv.jpg" group-title="DEPORTES", SUPER TV
+http://aleman.mine.nu:8000/live/ji63ZDq7IC/bKkMD2tBv6/1697.m3u8
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w342/movistarmotogp.jpg" group-title="DEPORTES", MOVISTAR MOTOGP
+http://aleman.mine.nu:8000/live/ji63ZDq7IC/bKkMD2tBv6/1484.m3u8
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w342/realmadrid.jpg" group-title="DEPORTES", REAL MADRID
+http://aleman.mine.nu:8000/live/ji63ZDq7IC/bKkMD2tBv6/294.m3u8
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w342/deportv.jpg" group-title="DEPORTES", DEPORTV
+http://186.33.227.198/DXTV/smil:DXTV.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w342/eurosport.jpg" group-title="DEPORTES", EUROSPORT
+http://aleman.mine.nu:8000/live/ji63ZDq7IC/bKkMD2tBv6/772.m3u8
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w342/cntsport.jpg" group-title="DEPORTES", CNT SPORT PPV1
+http://aleman.mine.nu:8000/live/ji63ZDq7IC/bKkMD2tBv6/2311.m3u8
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w342/mlb.jpg" group-title="DEPORTES", MLB
+http://mlbliveakc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w342/mundoauto.jpg" group-title="DEPORTES", Mundo Auto Television
+https://593b04c4c5670.streamlock.net/8702/8702/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w342/rugby.jpg" group-title="DEPORTES", Rugby TV
+http://fra01-edge01.itdc.ge/rtv/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w342/ktvsport.jpg" group-title="DEPORTES", KTV Sport Kuwait
+https://svs.itworkscdn.net/ktvsportslive/ksports.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w342/sportstv.jpg" group-title="DEPORTES", SportsTV
+http://stream.sportstv.com.tr:1935/sportstv/SportsTV3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w342/pac12.jpg" group-title="DEPORTES", Pac 12 Arizona
+http://p12a-lh.akamaihd.net/i/arizona_delivery@199730/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w342/pac12.jpg" group-title="DEPORTES", Pac 12 Bay Area
+http://p12b-lh.akamaihd.net/i/bayarea_delivery@429334/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w342/pac12.jpg" group-title="DEPORTES", Pac 12 Los Angeles
+http://p12l-lh.akamaihd.net/i/la_delivery@425541/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w342/pac12.jpg" group-title="DEPORTES", Pac 12 Mountain
+http://p12m-lh.akamaihd.net/i/mountain_delivery@428912/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w342/pac12.jpg" group-title="DEPORTES", Pac 12 Oregon
+http://p12o-lh.akamaihd.net/i/oregon_delivery@103261/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w342/pac12.jpg" group-title="DEPORTES", Pac 12 Washington
+http://p12w-lh.akamaihd.net/i/washington_delivery@426584/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w342/dubaisports.jpg" group-title="DEPORTES", Dubai Sports
+http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w342/automoto.jpg" group-title="DEPORTES", 100% Automoto
+http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dcunilive30-lh.akamaihd.net/assets/uploads/logos/wapa-deportes.png" group-title="DEPORTES", Wapa Deportes
+https://dcunilive30-lh.akamaihd.net/i/dclive_1@535231/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Logo_TDN.png" group-title="DEPORTES", TDN
+http://aleiptv.mine.nu:8000/aaron/1234/1013
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-VKh-H8rmYA0/WyXagnI9OTI/AAAAAAAAAxc/kc91Mg1KcHchG2uGTsx9GgHuJzaJz7rOwCLcBGAs/s1600/tntsports.jpg" group-title="DEPORTES", TNT SPORTS HD
+http://aleiptv.mine.nu:8000/aaron/1234/14109
+#EXTINF:-1 tvg-logo="https://img3.s3wfg.com/web/img/images_uploaded/7/3/claro_sport_rio_2016.png" group-title="DEPORTES", Claro Sport
+http://aleiptv.mine.nu:8000/aaron/1234/277
